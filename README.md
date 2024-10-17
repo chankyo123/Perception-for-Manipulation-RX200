@@ -1,4 +1,4 @@
-# armlab-f24
+# Perception, Manipulation for RX 200
 
 **Table of content**
 - [Code structure](#code-structure)
